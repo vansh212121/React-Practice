@@ -1,10 +1,10 @@
 import React from "react";
-import Index from "./components/tenzies/Index";
-
+import Index from "./components/assembly/Index";
 
 const App = () => {
   return (
-  <Index />);
+  <Index />
+)
 };
 
 export default App;
